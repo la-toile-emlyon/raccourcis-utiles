@@ -1,4 +1,5 @@
 # Raccourcis clavier
+---
 Retrouvez ici les raccourcis claviers qui vous seront utiles pour votre parcours à la toile. L'utilisation de raccourcis clavier peut grandement améliorer votre efficacité et votre confort de travail. Pas la peine de chercher à les mémoriser tous d'un coup.
 Si vous avez l'impression de retrouver les mêmes actions dans votre travail quotidien, cherchez s'il existe un raccourci clavier pour ces actions, et essayez de les utiliser à la place de la souris.
 N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les partager avec vos camarades quand l'occasion se présente.
@@ -21,6 +22,8 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
 - `Fn` + `←` : Aller au début de la ligne
 - `Fn` + `→` : Aller à la fin de la ligne
 
+[Retour en haut de page](#raccourcis-clavier)
+
 ## Raccourcis windows
 - `Win` : Ouvrir le menu Démarrer (puis commencez à écrire pour rechercher une application, un fichier ou une fonctionnalité)
 - Gestion des fenêtres (par exemple, pour afficher votre éditeur de code et votre navigateur côte à côte) :
@@ -33,6 +36,8 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
 - `Win` + `V` : Ouvrir le presse-papiers (affiche l'historique des éléments copiés, vous permettant de coller un élément précédent). Note : Cette fonctionnalité doit être activée dans les paramètres de Windows pour fonctionner.
 [Activer l'historique du presse-papiers sur Windows](https://www.microsoft.com/fr-fr/windows/tips/clipboard-history#:~:text=Appuyez%20sur%20la%20touche%20Windows,sur%20la%20touche%20Windows%20%2B%20V.)
 
+[Retour en haut de page](#raccourcis-clavier)
+
 ## Navigateur web
 - `Ctrl` + `T` : Ouvrir un nouvel onglet
 - `Ctrl` + `W` : Fermer l'onglet actuel
@@ -43,6 +48,8 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
 - `Fn` + `←` : Aller en haut de la page
 - `Fn` + `→` : Aller en bas de la page
 
+[Retour en haut de page](#raccourcis-clavier)
+
 ## Visual Studio Code
 ### Gérer l'interface, les fenêtres
 - `Ctrl` + `B` : Afficher ou masquer la barre latérale
@@ -51,6 +58,7 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
 - `Ctrl` + `Shift` + `Tab` : Naviguer dans les derniers fichiers modifiés dans l'ordre inverse
 - `Ctrl` + `P` : Ouvrir rapidement un fichier (tapez le nom du fichier pour le trouver)
 - `Ctrl` + `Shift` + `P` : Ouvrir la palette de commandes (tapez une commande pour l'exécuter)
+
 ### Travailler dans un fichier
 - Déplacement du curseur :
   - `Ctrl` + `Flèche gauche/droite` : Se déplacer d'un mot à la fois
@@ -83,3 +91,5 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
   - _Double-clic sur un mot_ : Sélectionner le mot entier. Utile pour sélectionner une variable ou une fonction rapidement.
   - _Triple-clic sur une ligne_ : Sélectionner la ligne entière. Utile pour sélectionner rapidement une ligne de code.
   - `Ctrl` + `D` : Sélectionner le mot actuel, puis les occurrences suivantes du même mot (appuyez plusieurs fois pour sélectionner toutes les occurrences). Utile pour renommer une variable ou une fonction dans tout le fichier.
+
+[Retour en haut de page](#raccourcis-clavier)
