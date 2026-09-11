@@ -19,6 +19,7 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
 - `Ctrl` + `A` : Sélectionner tout
 - `Ctrl` + `F` : Rechercher
 - `Ctrl` + `N` : Ouvrir une nouvelle fenêtre ou un nouvel onglet (selon l'application)
+- `Ctrl` + `W` : Fermer la fenêtre / l'onglet actuel
 - `Fn` + `←` : Aller au début de la ligne
 - `Fn` + `→` : Aller à la fin de la ligne
 
