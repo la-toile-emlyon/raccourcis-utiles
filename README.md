@@ -41,6 +41,7 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
 
 ## Navigateur web
 - `Ctrl` + `T` : Ouvrir un nouvel onglet
+- `Ctrl` + `N` : Ouvrir une nouvelle fenêtre
 - `Ctrl` + `W` : Fermer l'onglet actuel
 - `Ctrl` + `Shift` + `T` : Rouvrir le dernier onglet fermé
 - `Ctrl` + `Tab` : Passer à l'onglet suivant
