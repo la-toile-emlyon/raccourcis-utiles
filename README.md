@@ -24,6 +24,21 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
 
 [Retour en haut de page](#raccourcis-clavier)
 
+## Raccourcis windows
+- `Win` : Ouvrir le menu Démarrer (puis commencez à écrire pour rechercher une application, un fichier ou une fonctionnalité)
+- `Win` + `Shift` + `S` : Ouvrir l'outil _Capture d'écran_. Très utile pour partager ses réalisations (ou les bugs).
+- Gestion des fenêtres (par exemple, pour afficher votre éditeur de code et votre navigateur côte à côte) :
+  - `Win` + `←` : Ancrer la fenêtre active à gauche de l'écran
+  - `Win` + `→` : Ancrer la fenêtre active à droite de l'écran
+  - `Win` + `↑` : Agrandir la fenêtre active
+  - `Win` + `↓` : Réduire la fenêtre active
+- `Alt` + `Tab` : Basculer entre les applications ouvertes. (Maintenez `Alt` et appuyez sur `Tab` pour parcourir les applications, puis relâchez `Alt` pour ouvrir l'application souhaitée)
+- `Win` + `D` : Afficher le bureau (minimiser toutes les fenêtres)
+- `Win` + `V` : Ouvrir le presse-papiers (affiche l'historique des éléments copiés, vous permettant de coller un élément précédent). Note : Cette fonctionnalité doit être activée dans les paramètres de Windows pour fonctionner.
+[Activer l'historique du presse-papiers sur Windows](https://www.microsoft.com/fr-fr/windows/tips/clipboard-history#:~:text=Appuyez%20sur%20la%20touche%20Windows,sur%20la%20touche%20Windows%20%2B%20V.)
+
+[Retour en haut de page](#raccourcis-clavier)
+
 ## Navigateur web
 - `Ctrl` + `T` : Ouvrir un nouvel onglet
 - `Ctrl` + `W` : Fermer l'onglet actuel
@@ -77,20 +92,5 @@ N'hésitez pas à les pratiquer régulièrement pour les mémoriser, et à les p
   - _Double-clic sur un mot_ : Sélectionner le mot entier. Utile pour sélectionner une variable ou une fonction rapidement.
   - _Triple-clic sur une ligne_ : Sélectionner la ligne entière. Utile pour sélectionner rapidement une ligne de code.
   - `Ctrl` + `D` : Sélectionner le mot actuel, puis les occurrences suivantes du même mot (appuyez plusieurs fois pour sélectionner toutes les occurrences). Utile pour renommer une variable ou une fonction dans tout le fichier.
-
-[Retour en haut de page](#raccourcis-clavier)
-
-## Raccourcis windows
-- `Win` : Ouvrir le menu Démarrer (puis commencez à écrire pour rechercher une application, un fichier ou une fonctionnalité)
-- `Win` + `Shift` + `S` : Ouvrir l'outil _Capture d'écran_. Très utile pour partager ses réalisations (ou les bugs).
-- Gestion des fenêtres (par exemple, pour afficher votre éditeur de code et votre navigateur côte à côte) :
-  - `Win` + `←` : Ancrer la fenêtre active à gauche de l'écran
-  - `Win` + `→` : Ancrer la fenêtre active à droite de l'écran
-  - `Win` + `↑` : Agrandir la fenêtre active
-  - `Win` + `↓` : Réduire la fenêtre active
-- `Alt` + `Tab` : Basculer entre les applications ouvertes. (Maintenez `Alt` et appuyez sur `Tab` pour parcourir les applications, puis relâchez `Alt` pour ouvrir l'application souhaitée)
-- `Win` + `D` : Afficher le bureau (minimiser toutes les fenêtres)
-- `Win` + `V` : Ouvrir le presse-papiers (affiche l'historique des éléments copiés, vous permettant de coller un élément précédent). Note : Cette fonctionnalité doit être activée dans les paramètres de Windows pour fonctionner.
-[Activer l'historique du presse-papiers sur Windows](https://www.microsoft.com/fr-fr/windows/tips/clipboard-history#:~:text=Appuyez%20sur%20la%20touche%20Windows,sur%20la%20touche%20Windows%20%2B%20V.)
 
 [Retour en haut de page](#raccourcis-clavier)
